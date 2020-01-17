@@ -1,0 +1,24 @@
+      **** PROPRIEDADES GEOMETRICAS DAS FIGURAS PLANAS ****
+                    RESULTADOS OBTIDOS:
+
+ NUMERO DE VERTICES NO CONTORNO:    	11
+
+ AREA DA FIGURA:                     	23.500000cm2
+ PERIMETRO DA FIGURA:                   29.767829cm
+
+	COORDENADA X DO C. G.:                  2.489362cm
+	COORDENADA Y DO C. G.:                  1.297872cm
+
+	MOMENTO DE INERCIA, inerciaX:           51.998227cm4
+	MOMENTO DE INERCIA, inerciaY:           77.455674cm4 
+	PRODUTO DE INERCIA, inerciaXY:          -5.050532cm4 
+	MOMENTO POLAR DE INERCIA, Ip:			129.453901cm4
+
+	MOMENTO DE INERCIA MINIMO, Imn:         51.032854cm4 
+	MOMENTO DE INERCIA MAXIMO, Imx:         78.421047cm4 
+
+	ANG. INCL. EIXO PRINC. - Teta1:         -10.821150°   
+	ANG. INCL. EIXO PRINC. - Teta2:         79.178850°   
+
+	RAIO DE GIRACAO, Rmin.:                 1.473639cm
+	RAIO DE GIRACAO, RmAx:			    	1.826764cm
